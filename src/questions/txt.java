@@ -35,9 +35,9 @@
 //
 //13. Check whether the given number is a palindrome.
 //
-//        14. Find and print the sum of digits of the given number.
+//        14. Find and print the sum of digits of the given number
 //
-//15. Check whether the given number is an Armstrong number.
+//15. Check whether the given number is an Armstrong number
 //
 //16. Check whether the given number is a Perfect number.
 //
