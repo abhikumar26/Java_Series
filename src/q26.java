@@ -7,7 +7,5 @@ public class q26 {
         int num1 = sc.nextInt();
         System.out.print("Enter the Second number :");
         int num2 = sc.nextInt();
-
-
     }
 }
