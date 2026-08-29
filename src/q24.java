@@ -6,11 +6,11 @@ public class q24 {
         System.out.print("Enter the number here :");
         int n = sc.nextInt();
 
-        for (int i=1; i>=n; i++){
+        for (int i=1; i<=n; i++){
             if (n%i == 0){
-                System.out.println(i);
+                System.out.println("The factors of given number is " + i);
             }
+            sc.close();
         }
-
     }
 }
