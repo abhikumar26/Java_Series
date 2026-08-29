@@ -17,7 +17,7 @@ public class q26 {
                 break;
             }
         }
-        System.out.println("HCF of " + num1 + " and " +num2 + "is :" + hcf);
+        System.out.print("HCF of " + num1 + " and " +num2 + "is :" + hcf);
 
     }
 }
