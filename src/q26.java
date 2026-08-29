@@ -7,5 +7,9 @@ public class q26 {
         int num1 = sc.nextInt();
         System.out.print("Enter the Second number :");
         int num2 = sc.nextInt();
+
+        int hcf = 1;
+        int smaller = (num1<num2) ? num1 : num2;
+
     }
 }
