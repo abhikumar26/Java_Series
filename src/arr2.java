@@ -15,7 +15,7 @@ public class arr2 {
         if (isInArray){
             System.out.print("The value is present in array");
         } else {
-            System.out.print("The value is not present in array");
+            System.out.print("The value is not present in arrays");
         }
     }
 }
