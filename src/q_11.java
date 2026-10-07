@@ -1,8 +1,10 @@
 import java.util.Scanner;
 public class q_11 {
     public static void main(String[] args) {
+//  11. Count and print the total number of digits in a given number.
+
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter digit numbers here :" );
+        System.out.print("Enter digit numbers here :" );
         int n = sc.nextInt();
 
         int count = 0;
@@ -10,7 +12,7 @@ public class q_11 {
             n= n/10;
             count = count +1;
         }
-        System.out.println("The total digits are " + count );
+        System.out.print("The total digits are " + count );
 
     }
 }
